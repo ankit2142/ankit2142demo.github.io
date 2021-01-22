@@ -1,0 +1,52 @@
+ul{ list-style: none;
+  }
+
+nav ul li{
+        display:inline-block;
+           }
+
+body{ background-color:grey;
+    }
+ 
+nav ul li{
+          
+           padding:20px;
+            color:white; 
+           font-size:20px;     
+}
+
+ *{ padding:0px;
+    margin:0px;
+}
+
+ nav{ 
+     border-bottom:solid 2px;
+    }
+.sub-container{background-color:red;
+                margin-left:30%;
+                margin-right:30%;
+                 padding:30px;
+                margin-top:6%;
+}
+
+label{ font-size:25px;
+       color:white;
+}
+
+input{font-size:25px;
+     outline:none;
+      width:100%;
+}
+
+
+.btn{  font-size:25px;
+         outline:none;
+         background-color:white;
+         color:black;
+          border:none;
+         padding:3px;
+} 
+
+h1{color:white;
+   text-align:center;
+}    
